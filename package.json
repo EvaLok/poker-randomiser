@@ -1,6 +1,6 @@
 {
   "name": "poker-randomiser",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "a simple randomiser for poker players",
   "repository": "git@github.com:EvaLok/poker-randomiser.git",
   "author": "Eva Beekers <eva.aedea@gmail.com>",
