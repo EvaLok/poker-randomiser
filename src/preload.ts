@@ -3,7 +3,7 @@
 window.addEventListener("DOMContentLoaded", () => {
 
     const initRandomNumberButton = ( element: HTMLElement ) => {
-        element.innerText = 'hello random number box';
+        element.innerText = 'roll..';
 
         element.onclick = () => {
             element.innerText = Math.round(Math.random() * 100).toString();

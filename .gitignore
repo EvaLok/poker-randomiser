@@ -1,3 +1,7 @@
 node_modules
 dist
 .idea
+
+template/style/.sass-cache
+template/style/*.css
+template/style/*.css.map
